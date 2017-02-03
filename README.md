@@ -1,6 +1,6 @@
 # Magento 1 CSS Merge Data URI Fix
 
-This module fixes a bug which is present in all Magento 1 versions which case a corrupt CSS file when Magento's default CSS merging functionality is activated and data URI's are used in the CSS, for example with inline images.
+This module fixes a bug which is present in all Magento 1 versions which case a corrupt CSS file when Magento's default CSS merging functionality is activated and data URI's are used in the CSS, for example with inline images. For more information see: http://magento.stackexchange.com/questions/14973/problem-with-data-uris-and-css-file-merge
 
 ## Why doesn't Magento fix this?
 
