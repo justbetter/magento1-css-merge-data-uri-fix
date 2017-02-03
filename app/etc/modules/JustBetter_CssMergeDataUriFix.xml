@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <JustBetter_CssMergeDataUriFix>
+            <active>true</active>
+            <codePool>community</codePool>
+        </JustBetter_CssMergeDataUriFix>
+    </modules>
+</config>

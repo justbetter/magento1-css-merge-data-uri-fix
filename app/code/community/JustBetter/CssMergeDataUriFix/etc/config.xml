@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <JustBetter_CssMergeDataUriFix>
+            <version>1.0.0</version>
+        </JustBetter_CssMergeDataUriFix>
+    </modules>
+    <global>
+        <models>
+            <core>
+                <rewrite>
+                    <design_package>JustBetter_CssMergeDataUriFix_Model_Design_Package</design_package>
+                </rewrite>
+            </core>
+        </models>
+    </global>
+</config>
