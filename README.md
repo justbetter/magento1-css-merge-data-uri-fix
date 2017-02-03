@@ -8,7 +8,7 @@ It's a known issue but probably they focus more on Magento 2, understandable.
 
 ## Known modules with this issue:
 
-- [Algolia Search for Magento](https://github.com/algolia/algoliasearch-magento), a pull request is created: https://github.com/algolia/algoliasearch-magento/issues/739
+- [Algolia Search for Magento](https://github.com/algolia/algoliasearch-magento), a pull request is [created](https://github.com/algolia/algoliasearch-magento/issues/739).
 
 ## Installation
 
