@@ -26,4 +26,4 @@ Please create a [issue](https://github.com/just-better/magento1-css-merge-data-u
 
 ---
 
-[![JustBetter](https://justbetter.nl/app/uploads/2016/01/logo_justbetter_black-2x-new.png)](https://justbetter.nl)
+<a href="https://justbetter.nl" title="JustBetter"><img src="https://raw.githubusercontent.com/just-better/art/master/justbetter-logo.png" width="200px" alt="JustBetter logo"></a>
