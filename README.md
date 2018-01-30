@@ -12,18 +12,18 @@ It's a known issue but probably they focus more on Magento 2, understandable.
 
 ## Installation
 
-* Use [modman](https://github.com/colinmollenhour/modman): `modman clone https://github.com/just-better/magento1-css-merge-data-uri-fix.git`
-* Manually: [download](https://github.com/just-better/magento1-css-merge-data-uri-fix/archive/master.zip), unzip and copy.
+* Use [modman](https://github.com/colinmollenhour/modman): `modman clone https://github.com/justbetter/magento1-css-merge-data-uri-fix.git`
+* Manually: [download](https://github.com/justbetter/magento1-css-merge-data-uri-fix/archive/master.zip), unzip and copy.
 
 ## Compability
-This module overrides just one Magento model and is compatible with [our cache buster module](https://github.com/just-better/magento1-cache-buster) which overrides the same model. It's tested on Magento 1.9.3.2 but should work on every older version.
+This module overrides just one Magento model and is compatible with [our cache buster module](https://github.com/justbetter/magento1-cache-buster) which overrides the same model. It's tested on Magento 1.9.3.2 but should work on every older version.
 
 ## Ideas, bugs or suggestions?
-Please create a [issue](https://github.com/just-better/magento1-css-merge-data-uri-fix/issues) or a [pull request](https://github.com/just-better/magento1-css-merge-data-uri-fix/pulls).
+Please create a [issue](https://github.com/justbetter/magento1-css-merge-data-uri-fix/issues) or a [pull request](https://github.com/justbetter/magento1-css-merge-data-uri-fix/pulls).
 
 ## License
 [MIT](LICENSE.txt)
 
 ---
 
-<a href="https://justbetter.nl" title="JustBetter"><img src="https://raw.githubusercontent.com/just-better/art/master/justbetter-logo.png" width="200px" alt="JustBetter logo"></a>
+<a href="https://justbetter.nl" title="JustBetter"><img src="https://raw.githubusercontent.com/justbetter/art/master/justbetter-logo.png" width="200px" alt="JustBetter logo"></a>
