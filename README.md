@@ -6,10 +6,6 @@ This module fixes a bug which is present in all Magento 1 versions which case a 
 
 It's a known issue but probably they focus more on Magento 2, understandable.
 
-## Known modules with this issue:
-
-- ~~[Algolia Search for Magento](https://github.com/algolia/algoliasearch-magento), a issue is [created](https://github.com/algolia/algoliasearch-magento/issues/739).~~
-
 ## Installation
 
 * Use [modman](https://github.com/colinmollenhour/modman): `modman clone https://github.com/justbetter/magento1-css-merge-data-uri-fix.git`
